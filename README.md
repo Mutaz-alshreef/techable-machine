@@ -56,7 +56,7 @@ Confidence Score: 0.97`
 
 ![Colab Result](images/result_colab.png)
 
-### 🧠 Techable Machine Model Preview
+### 🧠 Teachable Machine Model Preview
 
-![Teachable Machine](images/result_techable.png)
+![Teachable Machine](images/result_teachable.png)
 
