@@ -42,6 +42,14 @@ Confidence Score: 0.97`
 
 - Google Colab
 
+## Google Colab link
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1KhOyJOqYUgI-CNguVLW4zHAEdWnKoY3k?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=google-chrome" alt="Live Demo" />
+  </a>
+</p>
+
+
 ## 📸 Results
 
 ### 🔍 Colab Prediction Output
